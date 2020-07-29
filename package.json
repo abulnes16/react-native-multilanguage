@@ -10,11 +10,12 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "i18n-js": "^3.7.1",
+    "i18next": "^19.6.3",
     "lodash.memoize": "^4.1.2",
     "react": "16.13.1",
+    "react-i18next": "^11.7.0",
     "react-native": "0.63.2",
-    "react-native-localize": "^1.4.1"
+    "react-native-locale-detector": "^1.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",

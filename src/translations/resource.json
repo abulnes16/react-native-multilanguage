@@ -1,0 +1,26 @@
+{
+    "en": {
+        "translation": {
+            "hello": "Hello World!",
+            "toggleSpanish": "Spanish",
+            "toggleEnglish": "English",
+            "toggleFrench": "French"
+        }
+    },
+    "es": {
+        "translation": {
+            "hello": "¡Hola Mundo!",
+            "toggleSpanish": "Español",
+            "toggleEnglish": "Ingles",
+            "toggleFrench": "Frances" 
+        }
+    },
+    "fr": {
+        "translation": {
+            "hello": "Salut le Monde!",
+            "toggleSpanish": "Espagnol",
+            "toggleEnglish": "Anglais",
+            "toggleFrench": "Français" 
+        }
+    }
+}
